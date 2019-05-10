@@ -1,4 +1,4 @@
-# syntax_checker
+# Syntax Checker: Unzips and Syntax checks HTML files.
 
 ## Why?
 Student submissions are often in the form of a zip file containing HTML, CSS and JS files. More often than not, there are sytnax
