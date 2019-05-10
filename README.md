@@ -1,4 +1,5 @@
-# Syntax Checker: Unzips and Syntax checks HTML files.
+# Syntax Checker
+## Unzips and Syntax checks HTML files.
 
 ## Why?
 Student submissions are often in the form of a zip file containing HTML, CSS and JS files. More often than not, there are sytnax
@@ -10,3 +11,4 @@ http://prntscr.com/nn0maj
 
 ## How to
 Place the script in the directory with the submisisons and run `ruby syntax_checker.rb`. The results will be outputted as follows.
+![Image of Results Output](http://prntscr.com/nn0maj)
