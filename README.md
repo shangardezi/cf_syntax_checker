@@ -7,9 +7,8 @@ or styling issues, which can be tedious to inspect, list and feedback to the stu
 and answering questions rather than checking code for syntax errors students.
 This simple Ruby script unzips, inspects HTML files for syntax issues and outputs the filename alongside the errors. 
 
-http://prntscr.com/nn0maj
-
 ## How to
 Place the script in the directory with the submisisons and run `ruby syntax_checker.rb`. 
 The results will be outputted as follows.
+
 ![Image of Results Output](https://i.ibb.co/4SWmL9g/download.png)
